@@ -7,6 +7,9 @@ html{
     border-radius: 10px;
 }
 
+.list-nav{
+    font-size: 18px
+}
 .nav-link:hover{
     background-color: rgb(39, 213, 233);
     border-radius: 10px;
